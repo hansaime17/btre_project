@@ -5,6 +5,16 @@
       "taskLabel": "task-btre_project",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-btre_project",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-btre_project",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }

@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\btre",
-    "\\btre\\btre"
+    "\\btre\\static",
+    "\\templates",
+    "\\templates\\accounts",
+    "\\templates\\admin",
+    "\\templates\\listings",
+    "\\templates\\pages"
   ],
-  "SelectedNode": "\\btre\\btre\\settings.py",
+  "SelectedNode": "\\templates\\listings\\search.html",
   "PreviewInSolutionExplorer": false
 }
